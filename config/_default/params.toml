@@ -4,8 +4,8 @@ enableSearch = true
 # socials
 #twitter = "@janedoe"
 #largeTwitterCard = false # set to true if you want to show a large twitter card image. The default is a small twitter card image
-introDescription = "Technologist, perpetual student, teacher, continual incremental improvement."
-introURL = "about/" # set the url for the 'read more' button below the introDescription, or set to false to not show the button
+introDescription = "Cisco Wireless engineer. CWNA, CWDP, CCNP, ENWLSI, ENWLSD"
+# introURL = "about/" # set the url for the 'read more' button below the introDescription, or set to false to not show the button
 # description = "A theme based on VMware's Clarity Design System for publishing technical blogs with Hugo." # Set your site's meta tag (SEO) description here. Alternatively set this description in your home page content file e.g. content/_index.md. Whatever is set in the latter will take precedence.
 # keywords = ["design", "clarity", "hugo theme"] # Set your site's meta tag (SEO) keywords here. Alternatively set these in your home page content file e.g. content/_index.md. Whatever is set in the latter will take precedence.
 
@@ -61,7 +61,7 @@ centerLogo = false # Set to "true" for centering or "false" for left aligned.
 codeMaxLines = 7
 
 # disable showing line numbers by default. Switch to `true` if you'd rather have them on.
-codeLineNumbers = false
+codeLineNumbers = true
 
 # enable math notation. Switch to `true` to enable mathjax in your site.
 enableMathNotation = false
@@ -150,8 +150,8 @@ numberOfFeaturedPosts = 3
 
 # website author
 [author]
-name = "Jane Doe"
-# photo = "images/jane-doe.png" #include this if you would like to show the author photo on the sidebar
+name = "Gerrit Jan"
+photo = "images/jane-doe.png" #include this if you would like to show the author photo on the sidebar
 
 [plausible_analytics]
 enable = false # to enable plausible analytics set to true.
