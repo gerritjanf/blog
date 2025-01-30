@@ -30,5 +30,7 @@ today = datetime.today()
 ```
 
 **Notices**
-notice 
+{{% notice info "Info!" %}}
+Mind you!
+{{% /notice %}}
 
