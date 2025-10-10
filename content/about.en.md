@@ -8,13 +8,16 @@ author: "Gerrit Jan"
 draft: false # Sets whether to render this page. Draft of true will not be rendered.
 ---
 
-**Gerrit Jan**
+## Gerrit Jan
+
 CWNP ID: 342280
 
-**About Me**
+## About Me
+
 I am a wireless network engineer at a Cisco partner in the Netherlands. Starting my wireless journey in 2020 with achieving my CWNP CWNA certification inspired by setting wireless requirements for my employer back then.
 
-**Certifications**
+## Certifications
+
 CWNP
   - CWNA
   - CWDP
