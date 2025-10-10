@@ -4,7 +4,7 @@ description: "About Gerrit Jan Wireless engineer"
 date: "2025-10-10"
 aliases: ["about"]
 author: "Gerrit Jan"
-draft: true # Sets whether to render this page. Draft of true will not be rendered.
+draft: false # Sets whether to render this page. Draft of true will not be rendered.
 ---
 
 **Gerrit Jan**
