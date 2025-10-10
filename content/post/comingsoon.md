@@ -18,6 +18,7 @@ figurePositionShow: true # Override global value for showing the figure label.
 categories: []
 tags: []
 # comment: false # Disable comment if false.
+robotsdisallow: true
 ---
 
 **Coming soon**
