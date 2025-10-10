@@ -29,4 +29,8 @@ post = "/:year/:month/:slug"
 home = ["HTML", "RSS", "JSON"]
 
 [pagination]
-  pagerSize = 10
+pagerSize = 10
+
+[sitemap]
+ChangeFreq = "daily"
+Priority = "1"
