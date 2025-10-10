@@ -2,6 +2,6 @@
   LanguageName = "English"
   weight = 1
 
-[nl]
-  LanguageName = "Nederlands"
-  weight = 2
+#[nl]
+#  LanguageName = "Nederlands"
+#  weight = 2
