@@ -18,19 +18,19 @@ DefaultContentLanguage = "en"
 # config/_default/menus/menu.xx.toml
 
 [taxonomies]
-category = "categories"
-tag = "tags"
-series = "series"
+ category = "categories"
+ tag = "tags"
+ series = "series"
 
 [permalinks]
-post = "/:year/:month/:slug"
+ post = "/:year/:month/:slug"
 
 [outputs]
-home = ["HTML", "RSS", "JSON"]
+ home = ["HTML", "RSS", "JSON"]
 
 [pagination]
-pagerSize = 10
+ pagerSize = 10
 
 [sitemap]
-ChangeFreq = "daily"
-Priority = "1"
+#   changefreq = 'daily'
+  priority = 1

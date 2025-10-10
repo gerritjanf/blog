@@ -9,7 +9,7 @@ draft: false # Sets whether to render this page. Draft of true will not be rende
 ---
 
 ## Gerrit Jan
-
+<img src="/images/me.jpg" width="320"><br />
 CWNP ID: 342280
 
 ## About Me
