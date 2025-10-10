@@ -1,5 +1,5 @@
 +++
 author = "Gerrit Jan"
-description = "A theme based on VMware's Clarity Design System for publishing technical blogs with Hugo." # Set your site's meta tag (SEO) description here. This overrides any description set in your site configuration.
-keywords = ["design", "clarity", "hugo theme"] # Set your site's meta tag (SEO) keywords here. These override any keywords set in your site configuration.
+description = "A blog about wireless networks, tooling, tips and my homelab" # Set your site's meta tag (SEO) description here. Alternatively set this description in your home page content file e.g. content/_index.md. Whatever is set in the latter will take precedence.
+keywords = ["CWNA", "CWDP", "CWNP", "CCNA", "CCNP", "ENWLSI", "ENWLSD", "802.11"] # Set your site's meta tag (SEO) keywords here. Alternatively set these in your home page content file e.g. content/_index.md. Whatever is set in the latter will take precedence.
 +++
