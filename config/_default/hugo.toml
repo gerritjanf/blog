@@ -4,7 +4,7 @@ baseurl = "https://blog.gerritjanfaber.nl/"  # Include trailing slash
 title = "802.11gj"  # Edit directly from config/_default/languages.toml # alternatively, uncomment this and remove `title` entry from the aforemention file.
 copyright = "Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved."
 # canonifyurls = true
-
+enableRobotsTXT = true
 
 #theme = "hugo-clarity"
 theme = ["github.com/chipzoller/hugo-clarity"]
