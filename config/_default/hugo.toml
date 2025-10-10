@@ -2,7 +2,7 @@
 # if you set it to "/" share icons won't work properly on production
 baseurl = "https://blog.gerritjanfaber.nl/"  # Include trailing slash
 title = "802.11gj"  # Edit directly from config/_default/languages.toml # alternatively, uncomment this and remove `title` entry from the aforemention file.
-copyright = "Gerrit Jan; all rights reserved."
+copyright = "Gerrit Jan"
 # canonifyurls = true
 enableRobotsTXT = true
 
