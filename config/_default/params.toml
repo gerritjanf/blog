@@ -6,8 +6,8 @@ enableSearch = true
 #largeTwitterCard = false # set to true if you want to show a large twitter card image. The default is a small twitter card image
 introDescription = "Cisco Wireless engineer. CWNA, CWDP, CCNP, ENWLSI, ENWLSD"
 # introURL = "about/" # set the url for the 'read more' button below the introDescription, or set to false to not show the button
-# description = "A theme based on VMware's Clarity Design System for publishing technical blogs with Hugo." # Set your site's meta tag (SEO) description here. Alternatively set this description in your home page content file e.g. content/_index.md. Whatever is set in the latter will take precedence.
-# keywords = ["design", "clarity", "hugo theme"] # Set your site's meta tag (SEO) keywords here. Alternatively set these in your home page content file e.g. content/_index.md. Whatever is set in the latter will take precedence.
+description = "A blog about wireless networks, tooling, tips and my homelab" # Set your site's meta tag (SEO) description here. Alternatively set this description in your home page content file e.g. content/_index.md. Whatever is set in the latter will take precedence.
+keywords = ["CWNA", "CWDP", "CWNP", "CCNA", "CCNP", "ENWLSI", "ENWLSD", "802.11"] # Set your site's meta tag (SEO) keywords here. Alternatively set these in your home page content file e.g. content/_index.md. Whatever is set in the latter will take precedence.
 
 showShare = false # Uncomment to not show share buttons on each post. Also available in each post's front matter.
 
@@ -137,12 +137,12 @@ numberOfFeaturedPosts = 3
 # numberOfPinnedPosts = 8
 
 # Date format. Checkout https://gohugo.io/functions/format/#hugo-date-and-time-templating-reference for details.
-# dateFormat = "2006-01-02" # Default to "Jan 2, 2006".
+dateFormat = "02-01-2006" # Default to "Jan 2, 2006".
 # customFonts = false # toggle to true if you want to use custom fonts only.
 
 # The year when this website was created, this value is used in the copyright
 # notice of the footer.
-# since = 2016
+since = 2025
 
 # Show related content at the end of an article based on the 'series' taxonomy. Can be set in post front matter.
 # showRelatedInArticle = false
@@ -151,7 +151,7 @@ numberOfFeaturedPosts = 3
 # website author
 [author]
 name = "Gerrit Jan"
-photo = "images/jane-doe.png" #include this if you would like to show the author photo on the sidebar
+photo = "images/me.jpg" #include this if you would like to show the author photo on the sidebar
 
 [plausible_analytics]
 enable = false # to enable plausible analytics set to true.
